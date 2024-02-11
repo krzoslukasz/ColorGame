@@ -1,0 +1,78 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ColorGameApp.WindowsForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="actionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Akcja</Value>
+    </Setting>
+    <Setting Name="startString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Start</Value>
+    </Setting>
+    <Setting Name="resetAppString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Resetuj aplikację</Value>
+    </Setting>
+    <Setting Name="closeString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Zamknij</Value>
+    </Setting>
+    <Setting Name="levelString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Poziom trudności</Value>
+    </Setting>
+    <Setting Name="level1String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Poziom brązowy: czas rundy -&gt; 2 sekundy</Value>
+    </Setting>
+    <Setting Name="level2String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Poziom srebrny: czas rundy -&gt; 1,5 sekundy</Value>
+    </Setting>
+    <Setting Name="level3String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Poziom złoty: czas rundy -&gt; 1 sekunda</Value>
+    </Setting>
+    <Setting Name="infoString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Informacje</Value>
+    </Setting>
+    <Setting Name="chooseColorString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wybierz kolor:</Value>
+    </Setting>
+    <Setting Name="remainingTimeString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pozostały czas:</Value>
+    </Setting>
+    <Setting Name="pointsString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Punkty:</Value>
+    </Setting>
+    <Setting Name="startInfoString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Aby zagrać, naciśnij Start.</Value>
+    </Setting>
+    <Setting Name="colorGameTitleString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test na kolory</Value>
+    </Setting>
+    <Setting Name="alertInfoTitleString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Informacje</Value>
+    </Setting>
+    <Setting Name="alertInfoContentString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Autorem gry jest Łukasz Krzos. Aby zagrać w grę należy wybrać opcję [Start] z menu.</Value>
+    </Setting>
+    <Setting Name="alertGameOverTitleString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wynik gry</Value>
+    </Setting>
+    <Setting Name="alertGameOverContent1String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Uzyskałeś</Value>
+    </Setting>
+    <Setting Name="alertGameOverContent2String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">punktów</Value>
+    </Setting>
+    <Setting Name="menuStripGameOverString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Koniec gry</Value>
+    </Setting>
+    <Setting Name="alertExitTitleString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Potwierdzenie</Value>
+    </Setting>
+    <Setting Name="alertExitContentString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Czy na pewno chcesz wyjść?</Value>
+    </Setting>
+    <Setting Name="secondsString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sek.</Value>
+    </Setting>
+    <Setting Name="titleString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test na kolory</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
