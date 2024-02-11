@@ -3,8 +3,8 @@
 The game involves pressing tiles of the color whose name is displayed on the screen. The difficulty lies in displaying the text in random colors. The game has 3 levels of difficulty.
 
 ## Tools and technologies
-Visual Studio 2022
-.NET Framework 4.8
+* Visual Studio 2022
+* .NET Framework 4.8
 
 ## Graphic interface
 
